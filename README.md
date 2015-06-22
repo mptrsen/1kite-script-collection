@@ -1,4 +1,4 @@
-# 1kite-script-collection
+# 1KITE script collection
 
 Scripts for all steps in the [1KITE][1] analysis pipeline.
 
